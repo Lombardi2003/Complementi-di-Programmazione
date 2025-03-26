@@ -1,8 +1,8 @@
 # 📂 Programmi-Python
 
-Ciao, benvenuto nel mio repository **Programmi-Python**! 🎓🐍 
-
-In questo repository ci sono tutti gli appunti che sono riuscito a prendere nel corso di *Complementi di Programmazione* A.A.2024-2025. Ci sono tutti gli appunti che ho fatto, gli esercizi ed vecchie prove d'esame, oltre che alla mia prova d'esame.
+Ciao, benvenuto nel mio repository **Programmi-Python**! 🐍 
+<p align="justify">
+In questo repository ci sono tutti gli appunti che sono riuscito a prendere nel corso di *Complementi di Programmazione* A.A.2024-2025. Ci sono tutti gli appunti che ho fatto, gli esercizi ed vecchie prove d'esame, oltre che alla mia prova d'esame.🎓
 
 ## 🔍 Cosa troverai qui
 
