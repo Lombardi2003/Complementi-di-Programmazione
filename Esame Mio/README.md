@@ -40,5 +40,5 @@ Realizzare un programma Python che gestisca un archivio di playlist musicali per
         - Esporti il risultato filtrato in un file testuale passato come parametro
     - Il modulo non deve richiedere input interattivo, tutti i parametri devono essere forniti da riga di comando.
 
-**[Bonus] Test Suite:**
+### **[Bonus] Test Suite:**
 Scrivere almeno una Test Suite con almeno un caso di test per verificare il corretto funzionamento di una o più funzionalità (es. creazione di una playlist, aggiunta di un brano, filtraggio dei brani, validazione dei dati via decoratore).
