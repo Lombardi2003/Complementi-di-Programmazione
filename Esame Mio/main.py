@@ -17,7 +17,8 @@ def seleziona_utente():
 
 def crea_utente():
     nome = input("Inserisci il nome del nuovo utente: ")
-    utenti.append(Utente(nome))
+    u = Utente(nome)
+    utenti.append(u)
     print("Utente creato")
 
 def uscita():
